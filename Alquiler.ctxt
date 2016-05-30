@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=dias\ cliente\ barco
+comment0.target=Alquiler(int,\ Cliente,\ Barco)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Alquiler\r\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=\r\n\ toString\r\n
+comment2.params=
+comment2.target=float\ getPrecioAlquiler()
+numComments=3

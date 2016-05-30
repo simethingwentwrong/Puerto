@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=matricula\ eslora\ anoFabricacion
+comment0.target=Barco(java.lang.String,\ float,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Barco\r\n
+comment1.params=
+comment1.target=java.lang.String\ getMatricula()
+comment1.text=\r\n\ return\ maticula\r\n
+comment2.params=
+comment2.target=float\ getEslor()
+comment2.text=\r\n\ return\ eslora\r\n
+comment3.params=
+comment3.target=int\ getAnoFabricacion()
+comment3.text=\r\n\ return\ ano\ fabricacion\r\n
+comment4.params=
+comment4.target=int\ getCoeficienteBernua()
+comment4.text=\r\n\ return\ coeficiente\ de\ bernua\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ to\ String\r\n
+numComments=6
